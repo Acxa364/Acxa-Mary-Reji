@@ -223,7 +223,7 @@ image{
     overflow: hidden;
 }
 .portfolio-card:nth-child(1){
-    background-image: url("Screenshot(174).png");
+    background-image: url(""assets/Screenshot\ \(174\).png"");
 }
 .portfolio-card:nth-child(2){
     background-image: url("Screenshot(175).png");
